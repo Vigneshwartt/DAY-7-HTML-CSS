@@ -1,0 +1,57 @@
+.one{
+    background-color: wheat;
+    transform: translateY(-20%);
+}
+.two{
+        display: flex;
+        justify-content: center;
+        height:350px;
+        transform: translateY(100%);
+        border-radius: 1rem;
+    img{
+        width:200px;
+    }
+}
+.three{
+    p{
+        letter-spacing: 3px;
+
+    }
+    h1 {
+line-height: 1em;    }
+}
+.par p{
+    text-align: justify;
+
+
+}
+.heads{
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    width:250px;
+    transform: translateX(342%);
+    text-align: center;
+    height: 350px;
+    border-radius: 1rem;
+
+    
+}
+.price b
+{
+    color: green;
+}
+.price p{
+    display: flex;
+
+    justify-content: flex-end;
+    transform: translateY(-260%);
+}
+.but button{
+    background-color:rgba(26, 177, 26, 0.748);
+    color: white;
+    transform: translateY(-210%);
+
+
+   
+}
